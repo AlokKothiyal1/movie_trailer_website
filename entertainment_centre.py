@@ -33,7 +33,7 @@ rockstar = media.Movie('Rockstar',
 'https://www.youtube.com/watch?v=bD5FShPZdpw')
 
 # List to Store different Movie instances Created
-movies = [spider_man,wonder,justice_league,big_hero,interstellar,rockstar]
+movies = [spider_man, wonder, justice_league, big_hero, interstellar, rockstar]
 
 # Creates an HTML page from the data provided
 fresh_tomatoes.open_movies_page(movies)
