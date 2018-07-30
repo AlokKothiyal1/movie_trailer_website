@@ -16,7 +16,7 @@ class Movie():
                 -StoryLine
                 -Poster Image Url
                 -Youtube Trailer Url
-         From the Instances of the Class Movie()
+         From the Instances of the Class Movie() & Initializes the Instance variables and Instance Methods
     """                   
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title
