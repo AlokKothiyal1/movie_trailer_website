@@ -1,5 +1,5 @@
 ##########################################
-# Project 3: Movie Website
+# Project : Movie Website
 # Date Started: 07/28/2016
 # Date Completed: 07/30/2016
 # Submitted by: Alok Kothiyal
@@ -7,7 +7,7 @@
 
 ######################################## Media File ####################################################
 # Description: This file creates the class Movie to allow for instances of this class to be used in the
-#              entertainment.py file. This definition of the class Movie was obtained through the course
+#              entertainment.py file. 
 ########################################################################################################
 import webbrowser
 class Movie():
