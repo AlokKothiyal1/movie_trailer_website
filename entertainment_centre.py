@@ -1,7 +1,7 @@
 import fresh_tomatoes
 import media
 
-#instances of class Movie------------------------------------------------------
+# instances of class Movie------------------------------------------------------
 spider_man = media.Movie('SpiderMan HomeComing',
 'Peter Parker is exploring the concept of becoming an Avenger.',
 'http://www.joblo.com/posters/images/full/Spider-Man-Homecoming-poster-2-large.jpg',
@@ -32,8 +32,8 @@ rockstar = media.Movie('Rockstar',
 'https://moviesposters.files.wordpress.com/2011/11/rockstar-2011nargis-fakiri.jpg',
 'https://www.youtube.com/watch?v=bD5FShPZdpw')
 
-#List to Store different Movie instances Created
+# List to Store different Movie instances Created
 movies = [spider_man,wonder,justice_league,big_hero,interstellar,rockstar]
 
-#Creates an HTML page from the data provided
+# Creates an HTML page from the data provided
 fresh_tomatoes.open_movies_page(movies)
