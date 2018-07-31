@@ -1,3 +1,6 @@
+import fresh_tomatoes
+import media
+
 # instances of class Movie-------
 spider_man = media.Movie(
     'SpiderMan HomeComing',
