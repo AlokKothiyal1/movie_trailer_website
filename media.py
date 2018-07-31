@@ -30,4 +30,3 @@ class Movie():
     def show_trailer(self):
         # Opens Up WebBrowser To play youtube Trailer
         webbrowser.open(self.trailer_youtube_url)
-
