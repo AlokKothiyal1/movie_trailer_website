@@ -6,7 +6,7 @@ Stores a list of my favorite movies, including box art imagery and a movie trail
 * Python should be installed on your system.
 * A Web Browser(Thats all!)
 
-**How to run the script-----.**
+**How to run the script-----**
 - Download all 3 files (i.e entertainment_centre.py	,fresh_tomatoes.py	,media.py) 
 - Place them inside a same folder
 - You can then Run the _"entertainment_centre.py"_ script using:-
